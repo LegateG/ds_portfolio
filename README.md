@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, DAX, Power BI, Tableau, ETL, AWS
 
 ## Professional Summary
-- Results-driven Data Scientist with a strong foundation in statistics, machine learning, and data analysis. Proven expertise in leveraging advanced analytical tools, machine learning solutions, and data methodologies to drive business growth and inform strategic decisions. Proficient in collaborating with cross-functional teams to deliver data-driven projects and solutions. With a solid background in actuarial sciences and business intelligence, I'm eager to apply my skills in data science to drive business value and insights.  
+- Results-driven Data Analyst with a strong foundation in statistics, machine learning, and data analysis. Proven expertise in leveraging advanced analytical tools, machine learning solutions, and data methodologies to drive business growth and inform strategic decisions. Proficient in collaborating with cross-functional teams to deliver data-driven projects and solutions. With a solid background in actuarial sciences and business intelligence, I'm eager to apply my skills in data science to drive business value and insights.  
 
 ## Education
 - Grad. Certificate in Business Intelligence at Algonquin College (2022)<br>
